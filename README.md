@@ -71,7 +71,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darinberit07&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darinberit07&theme=github_dark)
 <p style="display: block; width: 100%;">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=darinberit07&show_icons=true&locale=en&layout=compact" alt="most_used" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=darinberit07&show_icons=true&locale=en&layout=compact&theme=dark" alt="most_used" />
 </p> 
 <br/>
 </div>
