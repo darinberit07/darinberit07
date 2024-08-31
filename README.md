@@ -3,14 +3,14 @@
 
 <!-- Typing SVG -->
 <div align="center">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&duration=3000&pause=1000&color=F7451E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Gamer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&duration=3000&pause=1000&color=F7451E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Tech+Enthusiast;Gamer" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- About me -->
 <h3 align="left">About me</h3>
 
-- 🌱 Budding Software Developer
+- 🌱 Aspiring Software Developer
 
 - 🚀 I’m currently learning **Spring Boot, ReactJS, SQL**
 
