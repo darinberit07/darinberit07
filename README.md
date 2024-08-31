@@ -68,7 +68,7 @@
 
 <div align="left">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darinberit07&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darinberit07&theme=dark)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darinberit07&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darinberit07&theme=github_dark)
