@@ -1,4 +1,4 @@
-
+<!-- Heading -->
 <h1 align="center">Hello there, I'm Darin Berit R S <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
 
 <!-- Typing SVG -->
@@ -69,7 +69,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darinberit07&theme=github_dark)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darinberit07&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darinberit07&theme=github_dark)
 <p style="display: block; width: 100%;">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=darinberit07&show_icons=true&locale=en&layout=compact" alt="most_used" />
